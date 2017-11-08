@@ -3,7 +3,6 @@
 import Mads from 'mads-custom';
 import './main.css';
 
-
 var canvas, stage, exportRoot;
 function init() {
 	canvas = document.getElementById("canvas");
